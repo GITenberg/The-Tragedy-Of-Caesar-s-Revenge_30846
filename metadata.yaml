@@ -1,0 +1,32 @@
+_repo: The-Tragedy-Of-Caesar-s-Revenge_30846
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Boas, Frederick S. (Frederick Samuel)
+    aliases:
+    - Boas, F. S. (Frederick Samuel)
+    - Boas, Frederick Samuel
+    birthdate: 1862
+    deathdate: 1957
+    gutenberg_agent_id: '9588'
+    url: http://www.gutenberg.org/2009/agents/9588
+description: ''
+gutenberg_issued: '2010-01-04'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30846'
+  lccn: '12010444'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Tragedies'
+- !lcsh 'Caesar, Julius -- Drama'
+- !lcsh 'Pompey, the Great, 106-48 B.C. -- Drama'
+- !lcc 'PR'
+title: The Tragedy Of Caesar's Revenge
+url: http://www.gutenberg.org/ebooks/30846
