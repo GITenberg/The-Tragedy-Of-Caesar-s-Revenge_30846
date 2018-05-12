@@ -14,6 +14,8 @@ creator:
     gutenberg_agent_id: '9588'
     url: http://www.gutenberg.org/2009/agents/9588
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30846#The-Tragedy-Of-Caesar-s-Revenge
 gutenberg_issued: '2010-01-04'
 gutenberg_type: Text
 identifiers:
